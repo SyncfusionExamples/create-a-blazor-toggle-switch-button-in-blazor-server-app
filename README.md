@@ -40,7 +40,7 @@ Seamlessly supports HTML forms, template-driven forms (Angular), and reactive fo
 
 [Documentation](https://blazor.syncfusion.com/documentation/toggle-switch-button/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples)
 
-[View Demos](https://blazor.syncfusion.com/demos/buttons/toggle-switch-button?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/create-a-blazor-toggle-switch-button-in-blazor-server-app.git?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples)
 
