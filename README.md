@@ -35,9 +35,9 @@ Seamlessly supports HTML forms, template-driven forms (Angular), and reactive fo
 ## Related links
 [Learn More about Blazor Toggle Switch Button](https://www.syncfusion.com/blazor-components/blazor-toggle-switch-button?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples)
 
-[Download Free Trial](https://www.syncfusion.com/downloads/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/blazor/confirm?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples)
 
-[Pricing](https://www.syncfusion.com/sales/products/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples)
+[Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples)
 
 [Documentation](https://blazor.syncfusion.com/documentation/toggle-switch-button/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples)
 
@@ -49,10 +49,10 @@ Seamlessly supports HTML forms, template-driven forms (Angular), and reactive fo
 
 [Online examples](https://blazor.syncfusion.com/demos/buttons/toggle-switch-button?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples)
 
-[Knowledge Base](https://www.syncfusion.com/kb/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples)
+[Knowledge Base](https://support.syncfusion.com/kb/web/category/67?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples)
 
 ### About Syncfusion Blazor Components
-The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples) library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Toggle Switch Button, we provide popular Blazor Components such as [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples), [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples), and [Word Processor](https://www.syncfusion.com/blazor-components/blazor-word-processor?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples).
+The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples) library offers over 80 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Toggle Switch Button, we provide popular Blazor Components such as [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples), [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples), and [Word Processor](https://www.syncfusion.com/blazor-components/blazor-word-processor?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples).
 
 ### About Syncfusion
 
