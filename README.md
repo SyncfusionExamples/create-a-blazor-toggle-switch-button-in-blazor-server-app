@@ -1,13 +1,17 @@
 # Create a Blazor Toggle Switch Button in Blazor Server App
+
 The [Blazor Toggle Switch Button](https://www.syncfusion.com/blazor-components/blazor-toggle-switch-button?utm_source=github&utm_medium=listing&utm_campaign=blazor-toggle-switch-button-github-samples) is a custom HTML5 input-type checkbox component that allows you to perform a toggle (on/off) action between checked and unchecked states. A quick start blazor server app that allows you to configure the Blazor Toggle Switch Button component from Syncfusion with its available options. This project contains simple code customizations, as well as some important features such as switching between checked and unchecked states, setting disabled state, and toggle method. 
  
-## Project prerequisites
+## Prerequisites
 
-Make sure that you have the compatible versions of Visual Studio 2019 and .NET Core SDK 3.1.2 in your machine before starting to work on this project.
+* Visual Studio 2022
 
-## How to run this application?
+## How to run the project
 
-To run this application, you need to first clone the `create-a-blazor-toggle-switch-button-in-blazor-server-app` repository and then open it in Visual Studio 2019. Now, simply build and run your project to view the output.
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
 
 ## Features and benefits
 

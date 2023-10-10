@@ -3,28 +3,12 @@
 <div id="wrapper">
     <label>Bluetooth Tethering</label>
     @*Set Disabled="true" in below code to disable Toggle Switch Button*@
-    <SfSwitch Checked="true"
-              @ref="SwitchObj"
+    <SfSwitch @bind-Checked="isChecked"
               OnLabel="ON"
               OffLabel="OFF"
               CssClass="e-small"></SfSwitch>
-    <SfButton OnClick="ChangeState" CssClass="e-small">Change State</SfButton>
 </div>
 
-@code{
-    SfSwitch SwitchObj;
-    public void ChangeState()
-    {
-        SwitchObj.Toggle();
-    }
+@code {
+    private bool isChecked = true;
 }
-
-<style>
-    #wrapper{
-        text-align: center;
-    }
-
-    #wrapper div{
-        margin: 2% 40%;
-    }
-</style>
